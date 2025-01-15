@@ -16,8 +16,8 @@ This project uses computer vision and hand gesture recognition to create a virtu
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/virtual-piano.git
-    cd virtual-piano
+    git clone https://github.com/Dharmik-Solanki-G/Virtual-Piano.git
+    cd Virtual-Piano
     ```
 
 2. Ensure you have a webcam or use a video file for input. You can replace the `assets\video.mp4` with your webcam or another video source.
